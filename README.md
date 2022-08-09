@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @attaborg
+- 👀 I’m interested in front end web development
+- 🌱 I’m currently learning front end web development
+- 💞️ I’m looking to collaborate on front end web development projects
+- 📫 You can reach me at attaborg@gmail.com
